@@ -1,13 +1,13 @@
-import java.util.Vector;
+import java.util.vector;
 
-public class AbstractBooking {
+public class abstractbooking {
 
-  public Integer BookingDate;
+  public Integer bookingdate;
 
-  public Vehicle Vehicle;
+  public vehicle vehicle;
 
-  public DateRange BockedDateRange;
+  public daterange bockedaterange;
 
-    public Vector  BookedDateRange;
+    public vector  bookedaterange;
 
 }
