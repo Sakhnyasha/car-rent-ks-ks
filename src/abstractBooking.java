@@ -8,6 +8,6 @@ public class abstractbooking {
 
   public daterange bockedaterange;
 
-    public Vector  bookedaterange;
+    public vector  bookedaterange;
 
 }
