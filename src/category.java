@@ -1,6 +1,6 @@
 import java.util.Vector;
 
-public class category {
+public class Category {
 
   public String nameClass;
 
