@@ -1,6 +1,6 @@
 import java.util.Vector;
 
-public class driver {
+public class Driver {
 
   public String firstNmae;
 
