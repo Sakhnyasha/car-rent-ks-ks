@@ -1,6 +1,6 @@
 import java.util.Vector;
 
-public class dateRange {
+public class DateRange {
 
   public Integer dateFrom;
 
