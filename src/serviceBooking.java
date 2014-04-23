@@ -1,6 +1,6 @@
 import java.util.Vector;
 
-public class serviceBooking extends abstractBooking {
+public class ServiceBooking extends AbstractBooking {
 
   public Integer odometer;
 
