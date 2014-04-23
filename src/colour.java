@@ -1,6 +1,6 @@
 import java.util.Vector;
 
-public class colour {
+public class Colour {
 
   public String name;
 
