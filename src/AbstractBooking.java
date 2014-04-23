@@ -1,6 +1,6 @@
 import java.util.vector;
 
-public class abstractBooking {
+public class AbstractBooking {
 
   public Integer bookingDate;
 
