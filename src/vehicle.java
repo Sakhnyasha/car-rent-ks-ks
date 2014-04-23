@@ -1,6 +1,6 @@
 import java.util.Vector;
 
-public class vehicle extends dateRange, dateRange {
+public class Vehicle extends DateRange, DateRange {
 
   public String Class;
 
