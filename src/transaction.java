@@ -1,6 +1,6 @@
 import java.util.Vector;
 
-public class transaction {
+public class Transaction {
 
   public Integer amount;
 
