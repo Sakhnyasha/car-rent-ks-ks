@@ -1,6 +1,6 @@
 import java.util.Vector;
 
-public class comparison {
+public class Comparison {
 
   public Integer regNo;
 
