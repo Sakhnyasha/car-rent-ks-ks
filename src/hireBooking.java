@@ -1,6 +1,6 @@
 import java.util.Vector;
 
-public class HireBooking extends AbstractBooking {
+public class hireBooking extends AbstractBooking {
 
   public customer customer;
 
