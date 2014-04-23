@@ -1,6 +1,6 @@
 import java.util.Vector;
 
-public class customer {
+public class Customer {
 
   public String name;
 
