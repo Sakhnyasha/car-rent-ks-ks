@@ -1,6 +1,8 @@
 ﻿==============
 # KS-KS project #
 
+![UML](http://vk.com/doc44036438_288863113?hash=fe2f27375374964fea&dl=edfd79c8781ffa5f62&wnd=1)
+
 ## Description ##
 АС здачі автомобілів в оренду "KS-KS".
 
