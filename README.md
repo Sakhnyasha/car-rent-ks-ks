@@ -1,6 +1,6 @@
 
 # KS-KS project #
-![UML](http://vk.com/doc44036438_288863113?hash=fe2f27375374964fea&dl=edfd79c8781ffa5f62&wnd=1)
+![Pic](http://vk.com/doc44036438_288863113?hash=fe2f27375374964fea&dl=edfd79c8781ffa5f62&wnd=1)
 
 ## Description ##
 АС здачі автомобілів в оренду "KS-KS".
@@ -25,6 +25,17 @@
 2. Коцовський Р.І.
 3. Сахно Г.О.
 4. Скрипченко М.В.
+
+
+
+
+
+
+
+
+
+
+
 
 ## UML-diagram ##
 ![UML](http://cs606530.vk.me/v606530962/5f20/6R2-_v1aMEk.jpg)
